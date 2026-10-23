@@ -1,11 +1,4 @@
 import { motion } from 'framer-motion'
-
 export default function Navbar() {
-  return (
-    <motion.nav className="nav shell" aria-label="Main navigation" initial={{ opacity: 0, y: -10 }} animate={{ opacity: 1, y: 0 }}>
-      <a className="brand" href="#home"><span className="color-mark" aria-hidden="true"><i /><i /><i /><i /></span>Everyday / Google</a>
-      <div className="nav-links"><a href="#details">The details</a><a href="#everyday">In your day</a></div>
-      <a className="nav-shop" href="#shop">Shop the Hoodie</a>
-    </motion.nav>
-  )
+return <motion.nav className="nav shell" aria-label="Main navigation" initial={{opacity:0}} animate={{opacity:1}}><a className="brand" href="#home"><span className="kitchen-mark">CK</span>Carella's Kitchen.</a><div className="nav-links"><a href="#menu">The menu</a><a href="#build">Build your bowl</a><a href="#visit">Find the truck</a></div><a className="nav-shop" href="#menu">Explore the menu</a></motion.nav>
 }

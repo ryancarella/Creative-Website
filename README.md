@@ -1,13 +1,12 @@
-# Google Hoodie Landing Page
-
-React 19, TypeScript, Vite, Tailwind CSS v4, and Framer Motion.
-
-Repository: https://github.com/ryancarella/Creative-Website
-Live URL: https://ryancarella.github.io/Creative-Website/
-
-The supplied hoodie image is displayed with its screenshot caption cropped by CSS.
-No price, material, review, discount, or availability claims are made.
-The Shop section explicitly marks the missing product URL. Replace the disabled
-button with an anchor to the verified product URL when supplied.
-
-Validation: pnpm lint and pnpm build. Deployment runs on pushes to main.
+# Carella Kitchen
+Marketing venture for a planned macro-conscious food truck in Fairfield.
+Existing React, TypeScript, Vite, Tailwind v4 and Framer Motion project.
+Live: https://ryancarella.github.io/Creative-Website/
+Interactive menu filters and portion planner. Bowl ideas are saved only during the
+current visit, with no orders, payments, or personal information collected.
+Recipes, nutrition, prices, launch date, and schedule remain unconfirmed.
+Photo: https://images.unsplash.com/photo-1546069901-ba9599a7e63c
+Illustrative food image, not an actual menu item.
+Venture context supplied by the user. Classroom assignment instructions and
+research findings are not represented as customer reviews or verified recipes.
+Validate: pnpm lint; pnpm build. Deploy: push main to GitHub Pages.
