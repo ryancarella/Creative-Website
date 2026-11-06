@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "1.0",
+  "projectName": "Carellas Kitchen",
+  "modelName": "Carellas Kitchen",
+  "modelType": "Food truck",
+  "confirmedAt": "2026-11-06T19:10:53.091Z",
+  "version": "2026-11-06T19-10-53-091Z",
+  "dimensions": {
+    "x": 7.59,
+    "y": 3.67,
+    "z": 4.269119898922812,
+    "units": "meters"
+  },
+  "coordinateSystem": {
+    "up": "+Y",
+    "front": "+X",
+    "units": "meters"
+  },
+  "preferredCamera": {
+    "position": [
+      7.870816468201329,
+      6.057733920275719,
+      10.955981907063176
+    ],
+    "target": [
+      0.07499999999999993,
+      1.8350000000000002,
+      0.5615599494614053
+    ],
+    "projection": "Perspective"
+  },
+  "environment": {
+    "background": "#e8e9e7",
+    "lighting": "Softbox"
+  },
+  "description": "A navy and copper mobile kitchen with an open serving window, stainless kitchen, and Carellas Kitchen branding. Procedural interpretation of the supplied concept; approximate proportions.",
+  "hotspots": [],
+  "files": {
+    "model": "model.glb",
+    "project": "project.json",
+    "preview": "preview.png",
+    "readme": "README.txt"
+  },
+  "integrity": {
+    "algorithm": "SHA-256",
+    "model": "cfd7695b7ae037e68f551c9239ce6d8de5ce9a1346ffcd3660b53ae6df685f45",
+    "bytes": 1073276
+  }
+}
